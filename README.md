@@ -39,4 +39,4 @@ The primary goal was to master **React Router** for multi-page navigation, **com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/waseemqureshi2020/ecommerce-catalog.git
+   git clone https://github.com/waseemqureshi2020/eCommerce-Product-Catalog.git
